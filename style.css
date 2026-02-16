@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet;
+}
+img{
+    width: 809px;
+    height: 522px;
+}
+h1{
+    color: rgb(235, 133, 0);
+    font-size: 55px;
+}
+p{
+    color: rgb(0, 235, 51);
+    font-size: 23px;
